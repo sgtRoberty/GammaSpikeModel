@@ -10,7 +10,7 @@
         <provider classname="gammaspike.clockmodel.SpikeSize"/>
 
 
-        
+        <provider classname="gammaspike.distribution.BirthDeathTreePriorWithStubs"/>
         <provider classname="gammaspike.distribution.StumpedTreePrior"/>
         <provider classname="gammaspike.distribution.StumpedTreePriorOneLineage"/>
         <provider classname="gammaspike.distribution.TreeFlabelLikelihood"/>
